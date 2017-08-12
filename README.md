@@ -6,3 +6,4 @@
 Functions that are common in various object design patterns
 
 * [Immutable](https://github.com/emeraldinspirations/lib-objectdesignpattern-immutable)
+* [Singleton](https://github.com/emeraldinspirations/lib-objectdesignpattern-singleton)
